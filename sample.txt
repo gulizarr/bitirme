@@ -1,0 +1,8 @@
+Mat 101;Matematik 1;4;CC
+Fiz 101L;Fizik 1 Labaratuvarı;1;BB
+Tür 102;Türkçe 2;2;BB
+Tür 101;Türkçe 1;2;BB
+Fiz 101;Fizik 1;3;CC
+Oeg 101;Ortak Eğitime Giriş 1;1;DD
+Bil 113;Bilgisayarla Programlama 1;4;FF
+Bil 132;Bilgisayar Bilimleri İçin Ayrık Matematik;3;FF

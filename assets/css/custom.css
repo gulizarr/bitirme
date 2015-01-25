@@ -1,0 +1,41 @@
+body{
+	/*background-color: #e7ebf2;*/
+	font-size:14px;
+}
+.altbaslik{
+	font-size:18px;
+	font-weight: bold;
+	text-align: center;
+	background-color: rgba(215, 40, 40, 0.9);
+	padding: 10px;
+	margin-bottom: 25px;
+}
+.info{
+	font-size:18px;
+	font-weight: bold;
+	text-align: center;
+	background-color: rgba(0,0,255,0.3);;
+	padding: 10px;
+	margin-bottom: 25px;
+}
+.sagbar{
+	background-color:white; 
+	border-radius:4px; 
+	padding:20px 20px;
+}
+.form-control{
+	margin-bottom: 20px;
+}
+
+.form-kutu{
+	margin-bottom: 20px;
+}
+
+.basbaslik{
+	font-size:24px;
+	font-weight: bold;
+	text-align: center;
+	background-color: rgba(231, 255, 201, 0.23);
+	padding: 10px;
+	margin-bottom: 25px;
+}
